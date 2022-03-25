@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sumansaurav143.github.io/csb-12v8w3/static/css/main.222ca0e2.chunk.css",
+    "main.js": "https://sumansaurav143.github.io/csb-12v8w3/static/js/main.9b2eda07.chunk.js",
+    "main.js.map": "https://sumansaurav143.github.io/csb-12v8w3/static/js/main.9b2eda07.chunk.js.map",
+    "runtime-main.js": "https://sumansaurav143.github.io/csb-12v8w3/static/js/runtime-main.447b3e8d.js",
+    "runtime-main.js.map": "https://sumansaurav143.github.io/csb-12v8w3/static/js/runtime-main.447b3e8d.js.map",
+    "static/js/2.7e1da90e.chunk.js": "https://sumansaurav143.github.io/csb-12v8w3/static/js/2.7e1da90e.chunk.js",
+    "static/js/2.7e1da90e.chunk.js.map": "https://sumansaurav143.github.io/csb-12v8w3/static/js/2.7e1da90e.chunk.js.map",
+    "index.html": "https://sumansaurav143.github.io/csb-12v8w3/index.html",
+    "static/css/main.222ca0e2.chunk.css.map": "https://sumansaurav143.github.io/csb-12v8w3/static/css/main.222ca0e2.chunk.css.map",
+    "static/js/2.7e1da90e.chunk.js.LICENSE.txt": "https://sumansaurav143.github.io/csb-12v8w3/static/js/2.7e1da90e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.447b3e8d.js",
+    "static/js/2.7e1da90e.chunk.js",
+    "static/css/main.222ca0e2.chunk.css",
+    "static/js/main.9b2eda07.chunk.js"
+  ]
+}
